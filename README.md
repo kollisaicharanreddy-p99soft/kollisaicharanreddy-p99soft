@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**kollisaicharanreddy-p99soft/kollisaicharanreddy-p99soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kolli Sai Charan Reddy**, a Software Development Engineer - I at **P99SOFT**.
 
-Here are some ideas to get you started:
+### 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java & Spring Boot developer
+* Interested in backend development and distributed systems
+* Currently exploring **AWS, Spring AI**
+* Passionate about learning new technologies and building reliable software
+
+### 🛠️ Tech Stack
+
+**Java • Spring Boot • Spring AI • REST APIs • JPA/Hibernate • AWS • Git • Maven**
+
+### 🚀 Currently Learning
+
+**Cloud ☁️ | AI 🤖**
+
+> Learn. Build. Improve. 🚀
